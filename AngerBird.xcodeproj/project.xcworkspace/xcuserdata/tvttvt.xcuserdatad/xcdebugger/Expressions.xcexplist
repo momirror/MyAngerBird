@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MyContactListener::PostSolve(b2Contact*, b2ContactImpulse const*):MyContactListener.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "HelloWorld::eliminateEnery(b2Body*):HelloWorldScene.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "m_pWorld">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HelloWorld::createTarget(char*, cocos2d::CCPoint, float, bool, bool, bool):HelloWorldScene.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "b2Body::GetNext():b2Body.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "m_pWorld">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
